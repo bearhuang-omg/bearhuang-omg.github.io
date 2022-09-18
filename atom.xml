@@ -1,25 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>我是黄大仙</title>
   
+  <subtitle>每天进步一点点</subtitle>
+  <link href="https://github.com/bearhuang-omg/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2022-09-18T09:03:09.241Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://github.com/bearhuang-omg/"/>
+  <updated>2022-09-18T10:33:54.074Z</updated>
+  <id>https://github.com/bearhuang-omg/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>bearhuang</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>secod-post</title>
+    <link href="https://github.com/bearhuang-omg/2022/09/18/secod-post/"/>
+    <id>https://github.com/bearhuang-omg/2022/09/18/secod-post/</id>
+    <published>2022-09-18T10:26:57.000Z</published>
+    <updated>2022-09-18T10:33:54.074Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>这是我的第二篇博客呀。</p></blockquote><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>终于创建了第二篇博客，太不容易了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这是我的第二篇博客呀。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;终于创建了第二篇博客，太不容易了&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="客户端" scheme="https://github.com/bearhuang-omg/categories/%E5%AE%A2%E6%88%B7%E7%AB%AF/"/>
+    
+    
+    <category term="测试" scheme="https://github.com/bearhuang-omg/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="热更新" scheme="https://github.com/bearhuang-omg/tags/%E7%83%AD%E6%9B%B4%E6%96%B0/"/>
+    
+    <category term="注解" scheme="https://github.com/bearhuang-omg/tags/%E6%B3%A8%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>first post</title>
-    <link href="http://example.com/2022/09/18/first-post/"/>
-    <id>http://example.com/2022/09/18/first-post/</id>
+    <link href="https://github.com/bearhuang-omg/2022/09/18/first-post/"/>
+    <id>https://github.com/bearhuang-omg/2022/09/18/first-post/</id>
     <published>2022-09-18T08:57:38.000Z</published>
     <updated>2022-09-18T09:03:09.241Z</updated>
     
@@ -37,21 +69,21 @@
     
     
     
-    <category term="客户端" scheme="http://example.com/categories/%E5%AE%A2%E6%88%B7%E7%AB%AF/"/>
+    <category term="客户端" scheme="https://github.com/bearhuang-omg/categories/%E5%AE%A2%E6%88%B7%E7%AB%AF/"/>
     
     
-    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://github.com/bearhuang-omg/tags/%E6%B5%8B%E8%AF%95/"/>
     
-    <category term="热更新" scheme="http://example.com/tags/%E7%83%AD%E6%9B%B4%E6%96%B0/"/>
+    <category term="热更新" scheme="https://github.com/bearhuang-omg/tags/%E7%83%AD%E6%9B%B4%E6%96%B0/"/>
     
-    <category term="注解" scheme="http://example.com/tags/%E6%B3%A8%E8%A7%A3/"/>
+    <category term="注解" scheme="https://github.com/bearhuang-omg/tags/%E6%B3%A8%E8%A7%A3/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/09/18/hello-world/"/>
-    <id>http://example.com/2022/09/18/hello-world/</id>
+    <link href="https://github.com/bearhuang-omg/2022/09/18/hello-world/"/>
+    <id>https://github.com/bearhuang-omg/2022/09/18/hello-world/</id>
     <published>2022-09-18T06:53:51.905Z</published>
     <updated>2022-09-18T06:53:51.905Z</updated>
     
