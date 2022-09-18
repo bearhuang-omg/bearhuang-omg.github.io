@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-18T06:53:51.905Z</updated>
+  <updated>2022-09-18T09:03:09.241Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first post</title>
+    <link href="http://example.com/2022/09/18/first-post/"/>
+    <id>http://example.com/2022/09/18/first-post/</id>
+    <published>2022-09-18T08:57:38.000Z</published>
+    <updated>2022-09-18T09:03:09.241Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>这是我的第一篇博客呀。</p></blockquote><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>终于创建了第一篇博客，太不容易了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这是我的第一篇博客呀。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;终于创建了第一篇博客，太不容易了&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="客户端" scheme="http://example.com/categories/%E5%AE%A2%E6%88%B7%E7%AB%AF/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="热更新" scheme="http://example.com/tags/%E7%83%AD%E6%9B%B4%E6%96%B0/"/>
+    
+    <category term="注解" scheme="http://example.com/tags/%E6%B3%A8%E8%A7%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
